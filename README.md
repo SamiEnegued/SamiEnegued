@@ -12,6 +12,6 @@
 
 - 📫・How to reach me :
 
-- [Discord](newuseryalldontknow)
+- [Discord](@newuseryalldontknow)
 - [Mail](mailto:sami.enegued@protonmail.ch)
 - [LinkedIn](https://www.linkedin.com/in/enegued-sami/)
